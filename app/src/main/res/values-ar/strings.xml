@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">رجوع</string>
+    <string name="vavhp_app_logo_description">شعار التطبيق</string>
+    <string name="vavhp_main_menu_tagline">طابق كل الأزواج</string>
+    <string name="main_menu_play">ابدأ</string>
+    <string name="main_menu_high_scores">أفضل النتائج</string>
+    <string name="main_menu_about">معلومات اللعبة</string>
+    <string name="main_menu_exit">خروج</string>
+    <string name="menu_start_summary_format">لوحة \u200E%1$s · %2$d\u200E بطاقة</string>
+    <string name="menu_scores_moves_label">المحاولات</string>
+    <string name="menu_scores_time_label">المدة</string>
+    <string name="menu_scores_empty">أكمل لعبة لتسجيل رقم قياسي</string>
+    <string name="menu_about_subtitle">الدليل والتفاصيل</string>
+    <string name="menu_exit_subtitle">إغلاق التطبيق</string>
+    <string name="menu_previous_difficulty">أقل صعوبة</string>
+    <string name="menu_next_difficulty">أكثر صعوبة</string>
+    <string name="vavhp_difficulty_title">مستوى اللعبة</string>
+    <string name="difficulty_easy">سهل</string>
+    <string name="difficulty_medium">متوسط</string>
+    <string name="difficulty_hard">صعب</string>
+    <string name="difficulty_pairs_format">\u200E%1$d\u200E أزواج</string>
+    <string name="difficulty_cards_pairs_format">\u200E%1$d بطاقة · %2$d زوجًا\u200E</string>
+    <string name="game_moves_format">المحاولات: \u200E%1$d\u200E</string>
+    <string name="game_preview_format">احفظ! \u200E%1$d\u200E</string>
+    <string name="game_playing_hint">طابق البطاقات</string>
+    <string name="game_best_none">الرقم القياسي: –</string>
+    <string name="game_best_format">الرقم القياسي: \u200E%1$d محاولة · %2$s\u200E</string>
+    <string name="game_time_format">الوقت المنقضي: \u200E%1$s\u200E</string>
+    <string name="game_hud_moves_label">المحاولات</string>
+    <string name="game_hud_time_label">الوقت</string>
+    <string name="game_hud_pairs_label">الأزواج</string>
+    <string name="game_hud_pairs_format">تم العثور على \u200E%1$d / %2$d\u200E</string>
+    <string name="game_hud_minimal_format">\u200E%1$d محاولة · %2$s\u200E</string>
+    <string name="game_finished_title">اكتملت اللوحة!</string>
+    <string name="game_finished_moves_format">إجمالي المحاولات: \u200E%1$d\u200E</string>
+    <string name="game_finished_time_format">الوقت النهائي: \u200E%1$s\u200E</string>
+    <string name="game_finished_new_record_format">\u200E%1$s\u200E — رقم قياسي جديد!</string>
+    <string name="game_play_again">العب مجددًا</string>
+    <string name="game_main_menu">القائمة الرئيسية</string>
+    <string name="dialog_exit_title">الخروج من هذه الجولة؟</string>
+    <string name="dialog_exit_message">سيتم حذف تقدم هذه الجولة.</string>
+    <string name="dialog_action_confirm">خروج</string>
+    <string name="dialog_action_cancel">متابعة</string>
+    <string name="vavhp_high_scores_title">أفضل النتائج</string>
+    <string name="high_scores_empty">ستظهر الأرقام القياسية هنا</string>
+    <string name="high_scores_filter_moves">المحاولات</string>
+    <string name="high_scores_filter_time">المدة</string>
+    <string name="high_scores_filter_date">تاريخ اللعب</string>
+    <string name="high_score_card_score_format">\u200E%1$d محاولة · %2$s\u200E</string>
+    <string name="high_score_card_rank_format">المرتبة \u200E%1$d\u200E</string>
+    <string name="high_score_card_moves_label">المحاولات</string>
+    <string name="high_score_card_time_label">المدة</string>
+    <string name="high_score_card_date_label">تاريخ اللعب</string>
+    <string name="vavhp_about_title">تفاصيل اللعبة</string>
+    <string name="about_rules_title">دليل اللعب</string>
+    <string name="about_version_format">الإصدار \u200E%1$s\u200E</string>
+    <string name="about_developer_label">من إنشاء</string>
+    <string name="about_contact_label">تواصل معنا</string>
+    <string-array name="about_rules">
+        <item>تظل اللوحة كاملة مكشوفة لبضع ثوانٍ. احفظ موضع كل بطاقة.</item>
+        <item>بعد قلب البطاقات إلى الأسفل، اضغط على بطاقة لكشفها.</item>
+        <item>ابحث عن البطاقة المطابقة للبطاقة التي كشفتها.</item>
+        <item>اختر مستوى: تعرض الإعدادات الأصعب بطاقات أكثر على اللوحة.</item>
+    </string-array>
+</resources>

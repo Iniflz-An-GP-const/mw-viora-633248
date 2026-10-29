@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">Kembali</string>
+    <string name="vavhp_app_logo_description">Logo aplikasi</string>
+    <string name="vavhp_main_menu_tagline">Cocokkan semua pasangan</string>
+    <string name="main_menu_play">Mulai</string>
+    <string name="main_menu_high_scores">Skor Terbaik</string>
+    <string name="main_menu_about">Info Game</string>
+    <string name="main_menu_exit">Keluar</string>
+    <string name="menu_start_summary_format">%1$s · papan %2$d kartu</string>
+    <string name="menu_scores_moves_label">Langkah</string>
+    <string name="menu_scores_time_label">Durasi</string>
+    <string name="menu_scores_empty">Selesaikan game untuk membuat rekor</string>
+    <string name="menu_about_subtitle">Panduan dan detail</string>
+    <string name="menu_exit_subtitle">Tutup aplikasi</string>
+    <string name="menu_previous_difficulty">Lebih mudah</string>
+    <string name="menu_next_difficulty">Lebih sulit</string>
+    <string name="vavhp_difficulty_title">Level Game</string>
+    <string name="difficulty_easy">Pemula</string>
+    <string name="difficulty_medium">Menengah</string>
+    <string name="difficulty_hard">Mahir</string>
+    <string name="difficulty_pairs_format">%1$d pasangan</string>
+    <string name="difficulty_cards_pairs_format">%1$d kartu · %2$d pasangan</string>
+    <string name="game_moves_format">Langkah: %1$d</string>
+    <string name="game_preview_format">Ingat! %1$d</string>
+    <string name="game_playing_hint">Cocokkan kartunya</string>
+    <string name="game_best_none">Rekor: –</string>
+    <string name="game_best_format">Rekor: %1$d langkah · %2$s</string>
+    <string name="game_time_format">Berlalu: %1$s</string>
+    <string name="game_hud_moves_label">Langkah</string>
+    <string name="game_hud_time_label">Waktu</string>
+    <string name="game_hud_pairs_label">Pasangan</string>
+    <string name="game_hud_pairs_format">%1$d / %2$d ditemukan</string>
+    <string name="game_hud_minimal_format">%1$d langkah · %2$s</string>
+    <string name="game_finished_title">Papan selesai!</string>
+    <string name="game_finished_moves_format">Total langkah: %1$d</string>
+    <string name="game_finished_time_format">Waktu akhir: %1$s</string>
+    <string name="game_finished_new_record_format">%1$s — rekor baru!</string>
+    <string name="game_play_again">Main lagi</string>
+    <string name="game_main_menu">Menu awal</string>
+    <string name="dialog_exit_title">Keluar dari ronde?</string>
+    <string name="dialog_exit_message">Progres ronde ini akan dihapus.</string>
+    <string name="dialog_action_confirm">Keluar</string>
+    <string name="dialog_action_cancel">Lanjutkan</string>
+    <string name="vavhp_high_scores_title">Hasil Terbaik</string>
+    <string name="high_scores_empty">Rekor akan muncul di sini</string>
+    <string name="high_scores_filter_moves">Langkah</string>
+    <string name="high_scores_filter_time">Durasi</string>
+    <string name="high_scores_filter_date">Dimainkan</string>
+    <string name="high_score_card_score_format">%1$d langkah · %2$s</string>
+    <string name="high_score_card_rank_format">Peringkat %1$d</string>
+    <string name="high_score_card_moves_label">Langkah</string>
+    <string name="high_score_card_time_label">Durasi</string>
+    <string name="high_score_card_date_label">Dimainkan</string>
+    <string name="vavhp_about_title">Detail Game</string>
+    <string name="about_rules_title">Panduan Bermain</string>
+    <string name="about_version_format">Rilis %1$s</string>
+    <string name="about_developer_label">Dibuat oleh</string>
+    <string name="about_contact_label">Hubungi kami</string>
+    <string-array name="about_rules">
+        <item>Seluruh papan terbuka selama beberapa detik. Ingat posisi setiap kartu.</item>
+        <item>Setelah kartu tertutup, ketuk satu kartu untuk membukanya.</item>
+        <item>Cari kartu yang cocok dengan kartu yang sudah dibuka.</item>
+        <item>Pilih level: pengaturan yang lebih sulit menaruh lebih banyak kartu di papan.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">Revenir</string>
+    <string name="vavhp_app_logo_description">Logo de l\'application</string>
+    <string name="vavhp_main_menu_tagline">Associez toutes les cartes</string>
+    <string name="main_menu_play">Démarrer</string>
+    <string name="main_menu_high_scores">Meilleurs scores</string>
+    <string name="main_menu_about">Infos du jeu</string>
+    <string name="main_menu_exit">Quitter</string>
+    <string name="menu_start_summary_format">%1$s · plateau de %2$d cartes</string>
+    <string name="menu_scores_moves_label">Coups</string>
+    <string name="menu_scores_time_label">Durée</string>
+    <string name="menu_scores_empty">Terminez une partie pour établir un record</string>
+    <string name="menu_about_subtitle">Guide et détails</string>
+    <string name="menu_exit_subtitle">Fermer l\'application</string>
+    <string name="menu_previous_difficulty">Moins difficile</string>
+    <string name="menu_next_difficulty">Plus difficile</string>
+    <string name="vavhp_difficulty_title">Niveau de jeu</string>
+    <string name="difficulty_easy">Débutant</string>
+    <string name="difficulty_medium">Intermédiaire</string>
+    <string name="difficulty_hard">Expert</string>
+    <string name="difficulty_pairs_format">%1$d paires</string>
+    <string name="difficulty_cards_pairs_format">%1$d cartes · %2$d paires</string>
+    <string name="game_moves_format">Coups : %1$d</string>
+    <string name="game_preview_format">Mémorisez ! %1$d</string>
+    <string name="game_playing_hint">Associez les cartes</string>
+    <string name="game_best_none">Record : –</string>
+    <string name="game_best_format">Record : %1$d coups · %2$s</string>
+    <string name="game_time_format">Écoulé : %1$s</string>
+    <string name="game_hud_moves_label">Coups</string>
+    <string name="game_hud_time_label">Temps</string>
+    <string name="game_hud_pairs_label">Paires</string>
+    <string name="game_hud_pairs_format">%1$d / %2$d trouvées</string>
+    <string name="game_hud_minimal_format">%1$d coups · %2$s</string>
+    <string name="game_finished_title">Plateau terminé !</string>
+    <string name="game_finished_moves_format">Total des coups : %1$d</string>
+    <string name="game_finished_time_format">Temps final : %1$s</string>
+    <string name="game_finished_new_record_format">%1$s — record établi !</string>
+    <string name="game_play_again">Rejouer</string>
+    <string name="game_main_menu">Menu d\'accueil</string>
+    <string name="dialog_exit_title">Quitter cette manche ?</string>
+    <string name="dialog_exit_message">La progression de cette manche sera perdue.</string>
+    <string name="dialog_action_confirm">Quitter</string>
+    <string name="dialog_action_cancel">Continuer</string>
+    <string name="vavhp_high_scores_title">Meilleurs résultats</string>
+    <string name="high_scores_empty">Les records apparaîtront ici</string>
+    <string name="high_scores_filter_moves">Coups</string>
+    <string name="high_scores_filter_time">Durée</string>
+    <string name="high_scores_filter_date">Partie</string>
+    <string name="high_score_card_score_format">%1$d coups · %2$s</string>
+    <string name="high_score_card_rank_format">Rang %1$d</string>
+    <string name="high_score_card_moves_label">Coups</string>
+    <string name="high_score_card_time_label">Durée</string>
+    <string name="high_score_card_date_label">Partie</string>
+    <string name="vavhp_about_title">Détails du jeu</string>
+    <string name="about_rules_title">Guide de jeu</string>
+    <string name="about_version_format">Édition %1$s</string>
+    <string name="about_developer_label">Créé par</string>
+    <string name="about_contact_label">Nous contacter</string>
+    <string-array name="about_rules">
+        <item>Tout le plateau reste visible quelques secondes. Mémorisez la position de chaque carte.</item>
+        <item>Une fois les cartes retournées, touchez-en une pour la dévoiler.</item>
+        <item>Cherchez la carte identique à celle que vous avez dévoilée.</item>
+        <item>Choisissez un niveau : les réglages difficiles ajoutent des cartes au plateau.</item>
+    </string-array>
+</resources>
